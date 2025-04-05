@@ -1,0 +1,62 @@
+body {
+    background-image: 
+        linear-gradient(rgba(160, 0, 0, 0.7), rgba(160, 0, 0, 0.7)), 
+        url('img/vistabackground.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+h1{
+    color: rgb(204, 255, 180);
+    padding: 30px;
+}
+
+h2{
+    color: rgb(204, 255, 180);
+    padding: 30px;
+}
+
+h3{
+    color: rgb(204, 255, 180);
+    padding: 30px;
+}
+
+h4{
+    color: rgb(204, 255, 180);
+    padding: 30px;
+}
+
+h5{
+    color: rgb(204, 255, 180);
+    padding: 30px;
+}
+
+h6{
+    color: rgb(204, 255, 180);
+    padding: 30px;
+}
+
+.contaioner{
+    width: 100%;
+    min-height: 100%;
+    padding: 50px;
+    background-position: center;
+    background-size: cover;
+}
+
+.search-bar{
+    width: 100;
+    max-width: 100px;
+    background: rgba(156, 70, 30, 0.7);
+    padding: 50px;
+}
+.search-bar input{
+    background: transparent;
+    flex: 1;
+    border: 1;
+    outline: tomato;
+    padding: 24px 20px;
+    font-size: 20px;
+    color: rgb(187, 76, 12);
+}
